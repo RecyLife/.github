@@ -29,17 +29,7 @@ Nous sommes un groupe d'étudiants du CPNE, et notre projet consiste à récupé
 L'objectif est de rendre l'informatique accessible tout en contribuant à la réduction des déchets électroniques. Chaque machine est soigneusement vérifiée et remise en état, offrant une solution économique et durable pour les étudiants, les petites entreprises et toute personne à la recherche d'un PC fiable à petit prix.
 
 
-
-<!-- GETTING STARTED -->
-## Our Team
-
-<p align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=douxxu&hide_border=true&show_icons=true&count_private=true&theme=midnight-purple&bg_color=151515">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=judemont&hide_border=true&show_icons=true&count_private=true&theme=midnight-purple&bg_color=151515">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=AsteroidusTv&hide_border=true&show_icons=true&count_private=true&theme=midnight-purple&bg_color=151515">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=ronzaigu&hide_border=true&show_icons=true&count_private=true&theme=midnight-purple&bg_color=151515">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Vital-Vuillaume&hide_border=true&show_icons=true&count_private=true&theme=midnight-purple&bg_color=151515">
- </p>
+ 
 
 <!-- CONTACT -->
 ## Contact
