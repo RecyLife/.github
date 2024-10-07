@@ -29,10 +29,11 @@ L'objectif est de rendre l'informatique accessible tout en contribuant à la ré
 
 
  
+<!--
 
-<!-- CONTACT -->
 ## Contact
 
 - [recyetch@douxx.xyz](mailto:recytech@douxx.xyz)
 
 - [RecyTech](https://caca.fr)
+  -->
