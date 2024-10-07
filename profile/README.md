@@ -36,6 +36,6 @@ L'objectif est de rendre l'informatique accessible tout en contribuant à la ré
 <!-- CONTACT -->
 ## Contact
 
-- [douxx@douxx.xyz](mailto:douxx@douxx.xyz)
+- [recyetch@douxx.xyz](mailto:recytech@douxx.xyz)
 
-- [recytech.rmbi.ch](https://recytech.rmbi.ch)
+- [RecyTech](https://e-girl.fr)
