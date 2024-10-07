@@ -10,7 +10,6 @@
 <h3 align="center">RecyTech Shop</h3>
 
   <p align="center">
-    ...
     <br />
     <a href="https://recytech.rmbi.ch"><strong>Visiter le site »</strong></a>
     <br />
