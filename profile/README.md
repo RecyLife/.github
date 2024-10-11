@@ -11,7 +11,7 @@
 
   <p align="center">
     <br />
-    <a href="https://recytech.rmbi.ch"><strong>Visiter le site »</strong></a>
+    <a href="https://rmbi.ch/recytech"><strong>Visiter le site »</strong></a>
     <br />
     <br />
 
