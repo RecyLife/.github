@@ -11,7 +11,7 @@
 
   <p align="center">
     <br />
-    <a href="https://ddlc.moe"><strong>ddlc.moe »</strong></a>
+    <a href="https://recytech.me"><strong>Visiter le site»</strong></a>
     <br />
     <br />
 
